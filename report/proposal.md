@@ -23,7 +23,9 @@ Week 1:
 2. Work to clean and compile the dataset 
       - Get rid of null values 
       - remove outliers
+
 Weeks 2&3:
+
 3. Analyze the data and determine best modes for visualization
 4. Create visuals to communicate final insights from data analysis
 
