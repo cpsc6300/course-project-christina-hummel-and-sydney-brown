@@ -28,6 +28,7 @@ Weeks 2&3:
 4. Create visuals to communicate final insights from data analysis
 
 Weeks 4-7:
+
 5. Create predictive indexes for specific conditions (i.e diabetes, heart disease, etc)
 6. Create website to showcase the final analysis and insights
 
