@@ -1,6 +1,6 @@
 # TITLE:
-## Team Members:
-## Date:
+## Team Members: Christina Hummel and Sydney Brown
+## Date: 11/12/2020
 
 # Project Description
 ## Probelm Statement and Motivation
