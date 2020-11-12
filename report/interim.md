@@ -1,4 +1,4 @@
-# TITLE:
+# TITLE: Social, Economical, and Geographical Impacts on Healthcare Access Trends
 ## Team Members: Christina Hummel and Sydney Brown
 ## Date: 11/12/2020
 
