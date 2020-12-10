@@ -1,0 +1,4 @@
+site_name: CPSC6300 Course Project
+nav:
+    - Home: index.md
+theme: readthedocs
